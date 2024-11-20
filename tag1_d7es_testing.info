@@ -3,3 +3,9 @@ description = Simulates a contributed module for testing Tag1 D7ES updates.
 core = 7.x
 package = Tag1
 dependencies[] = tag1_d7es:tag1_d7es
+
+; Faking information added by Drupal.org packaging script
+version = "7.x-1.0"
+core = "7.x"
+project = "tag1_d7es_testing"
+datestamp = "1732130549"
