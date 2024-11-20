@@ -1,0 +1,9 @@
+<?php
+
+/**
+ * Implements hook_form_FORM_ID_alter().
+ */
+function tag1_d7es_testing_form_tag1_d7es_admin_form_alter() {
+  // Display a message on the Tag1 D7ES module's configuration page.
+  drupal_set_message(t('The Tag1 D7ES Testing module is enabled with version: 7.x-1.0'));
+}

@@ -1,0 +1,5 @@
+name = Tag1 D7ES Testing
+description = Simulates a contributed module for testing Tag1 D7ES updates.
+core = 7.x
+package = Tag1
+dependencies[] = tag1_d7es:tag1_d7es
